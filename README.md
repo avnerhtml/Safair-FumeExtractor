@@ -14,9 +14,9 @@ An affordable, modular DIY air filtration system designed for makerspace users, 
 <img width="580" height="430" alt="3dprintfumeextractor" src="https://github.com/user-attachments/assets/be13ed82-caca-4483-99cf-451c37941f2b" />
 </p>
 - Short clip of soldering fume extraction test. Effectively uses custom made and 3d printed tabletop solder fume extractor attachment.
-<p align="center">
+<div align="center">
 https://github.com/user-attachments/assets/49c5c841-1aba-4acd-aee3-878d2dba6d10
-</p>
+</div>
 
 
 
