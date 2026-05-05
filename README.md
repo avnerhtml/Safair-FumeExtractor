@@ -1,4 +1,4 @@
-# Safair-FumeExtractor **Print files releasing shortly**
+# Safair-FumeExtractor ***Print files releasing shortly***
 <img width="580" height="430" alt="Logo_rev8" src="https://github.com/user-attachments/assets/9e47b713-4edf-485c-b597-b7ed0803d77b" />
 
 Safair – Modular Fume Extractor for Engineers
